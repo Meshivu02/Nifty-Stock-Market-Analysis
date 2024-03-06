@@ -1,4 +1,4 @@
-# Nifty Stock Market Analysis with Regression
+# Nifty Stock Market Analysis
 
 ## Overview
 
