@@ -26,11 +26,9 @@ cd nifty-stock-analysis
 ## Run the Python script:
 python manage.py
 
-
 ## Usage
 After running the script, in addition to the visualizations, the script will now train a linear regression model to predict closing prices.
 The model's performance metrics and a scatter plot of actual vs. predicted closing prices will be displayed.
-
 
 ## Dependencies
 yfinance: Fetching historical stock data.
